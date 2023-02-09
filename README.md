@@ -1,1 +1,1 @@
-"# Pytorch-Data-Manipulation-Tutorial" 
+Pytorch Data Manipulation Tutorial
